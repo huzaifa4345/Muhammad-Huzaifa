@@ -1,4 +1,5 @@
 <body>
+	 <img src="https://github.com/huzaifa4345/Muhammad-Huzaifa/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png" alt="Baner" >
   <div align="center">
     <h1> Hi there, I'm Muhammad Huziafa👋<a href="https://github.com/huzaifa4345"></h1>
   </div>
