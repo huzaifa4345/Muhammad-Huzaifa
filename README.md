@@ -1,84 +1,33 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Muhammad Huziafa👋<a href="https://github.com/huzaifa4345"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Muhammad Huzaifa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fronend-Developer;Chatbot-Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
-
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
-	
-👨‍💻 Lead NLP Developer at HandyHelps
-
-🔥 NLP & VUI Consultant and Web Developer 
+👨‍💻 FRONEND-DEVELOPER & CHATBOT 
 	
 💰 RISING TALENT at UPWORK ✅
 
-💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
-	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
+💸 FIVERR and UPWORK
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+✨ Favorite Tech: Dialogflow, HTML, CSS, Javascropt
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
+📧 muhammadhuzaifa8456@gmail.com
 
-📧 hammadn788@gmail.com
+💼 LinkedIn: www.linkedin.com/in/muhammad-huzaifa-0ba4132a5
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
-
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
-
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Facebook: https://www.facebook.com/profile.php?id=61558374256180
  
 <h2>Tech Stack</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<table width="100">
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
-    </td>
 
-  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
- 
-</tr>
- 
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
-    </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
-    </td>
-</tr>
- 
-
-    
-</table>
-</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-0ba4132a5"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhammadhuzaifa8456@gmail.com"><img src="https://img.shields.io/badge/-muhammadhuzaifa8456@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://https://www.facebook.com/profile.php?id=61558374256180"><img src="https://img.shields.io/badge/-https://www.facebook.com/profile.php?id=61558374256180-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
